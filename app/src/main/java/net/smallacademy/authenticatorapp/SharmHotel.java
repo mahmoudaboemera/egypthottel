@@ -19,7 +19,7 @@ public class SharmHotel extends AppCompatActivity {
     }
 
     public void pay (View view) {
-        Intent i = new Intent(this, BookOne.class);
+        Intent i = new Intent(this, AswanRooms.class);
         startActivity(i);
 
     }

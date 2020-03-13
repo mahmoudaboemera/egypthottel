@@ -19,7 +19,7 @@ public class ElsokhnaHotel extends AppCompatActivity {
         setContentView(R.layout.elsokhna);
     }
     public void pay(View view) {
-            Intent i = new Intent(this, BookOne.class);
+            Intent i = new Intent(this, AswanRooms.class);
         startActivity(i);
 
     }

@@ -14,7 +14,7 @@ public class AswanInfo extends AppCompatActivity {
         setContentView(R.layout.activity_aswan_info);
     }
 
-    public void info(View view) {
+    public void aswaninfo(View view) {
             Intent i = new Intent(this, BookOne.class);
         startActivity(i);
 

@@ -18,7 +18,7 @@ public class GounnaHotel extends AppCompatActivity {
         setContentView(R.layout.gounna);
     }
     public void pay(View view) {
-        Intent i = new Intent(this, BookOne.class);
+        Intent i = new Intent(this, AswanRooms.class);
         startActivity(i);
 
     }

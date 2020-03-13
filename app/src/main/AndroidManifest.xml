@@ -12,7 +12,16 @@
         android:roundIcon="@drawable/egypts"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AswanRooms"></activity>
+        <activity android:name=".ElgonaRooms"></activity>
+        <activity android:name=".ElgonaRoom" />
+        <activity android:name=".ElsokhnaRooms" />
+        <activity android:name=".ElsokhnaRoom" />
+        <activity android:name=".SharmRooms" />
+        <activity android:name=".SharmRoom" />
+        <activity android:name=".SharmInfo" />
+        <activity android:name=".GonaInfo" />
+        <activity android:name=".ElsokhnaInfo" />
+        <activity android:name=".AswanRooms" />
         <activity android:name=".AswanRoom" />
         <activity android:name=".AswanInfo" />
         <activity android:name=".Login" />
